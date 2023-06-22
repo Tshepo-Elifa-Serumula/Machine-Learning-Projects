@@ -1,1 +1,1 @@
-This is the Machin Learning Project created by Tshepo Serumula for the Credit Score Classification.
+This is the Machine Learning Projects created by Tshepo Serumula.
